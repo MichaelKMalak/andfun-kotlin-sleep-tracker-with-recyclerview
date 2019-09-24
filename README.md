@@ -1,6 +1,6 @@
 # SleepQualityTracker app
 
-This is the toy app for Lesson 6 and 7 of the [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/).
+This is the toy app for Lessons 6 and 7 of the [Android App Development in Kotlin course on Udacity](https://classroom.udacity.com/courses/ud9012/).
 
 The SleepQualityTracker app is a demo app that helps the user collect information about his sleep. 
 * Start time
